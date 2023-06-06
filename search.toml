@@ -1,0 +1,48 @@
+[input]
+html_selector = "main"
+base_directory = "output"
+
+[[input.files]]
+path = "pages/markdown.html"
+url = "/pages/markdown.html"
+title = "Markdown"
+
+[[input.files]]
+path = "1.html"
+url = "/1.html"
+title = "1"
+
+[[input.files]]
+path = "todo.html"
+url = "/todo.html"
+title = "todo"
+
+[[input.files]]
+path = "grep.html"
+url = "/grep.html"
+title = "GREP"
+
+[[input.files]]
+path = "An easy pizza dough recipe.html"
+url = "/An easy pizza dough recipe.html"
+title = "Pizza Dough"
+
+[[input.files]]
+path = "resume.html"
+url = "/resume.html"
+title = "Resume"
+
+[[input.files]]
+path = "stromboli.html"
+url = "/stromboli.html"
+title = "Stromboli"
+
+[[input.files]]
+path = "wolf-brand-chili.html"
+url = "/wolf-brand-chili.html"
+title = "Wolf Brand Chili"
+
+[[input.files]]
+path = "recipe-links.html"
+url = "/recipe-links.html"
+title = "Recipe Links"
